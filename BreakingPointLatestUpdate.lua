@@ -1,1 +1,2 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/jogamerforgames2022/MainHacksRoblox/main/4-5Code.lua'))()
+-- Breaking Point Script --
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Town125/Town125/main/BreakingPointScript.lua'))()
